@@ -1,0 +1,7 @@
+F:\Prafulli\ConsoleApp1goodby\ConsoleApp1goodby\bin\Debug\ConsoleApp1goodby.exe.config
+F:\Prafulli\ConsoleApp1goodby\ConsoleApp1goodby\bin\Debug\ConsoleApp1goodby.exe
+F:\Prafulli\ConsoleApp1goodby\ConsoleApp1goodby\bin\Debug\ConsoleApp1goodby.pdb
+F:\Prafulli\ConsoleApp1goodby\ConsoleApp1goodby\obj\Debug\ConsoleApp1goodby.csproj.AssemblyReference.cache
+F:\Prafulli\ConsoleApp1goodby\ConsoleApp1goodby\obj\Debug\ConsoleApp1goodby.csproj.CoreCompileInputs.cache
+F:\Prafulli\ConsoleApp1goodby\ConsoleApp1goodby\obj\Debug\ConsoleApp1goodby.exe
+F:\Prafulli\ConsoleApp1goodby\ConsoleApp1goodby\obj\Debug\ConsoleApp1goodby.pdb
