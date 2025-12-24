@@ -1,0 +1,27 @@
+name: Goodbye Program Workflow
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  run-goodbye:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: 7.0
+
+    - name: Restore
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet build
+
+    - name: Run Goodbye Program
+      run: dotnet run --project ConsoleApp1goodby/ConsoleApp1goodby.csproj
